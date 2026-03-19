@@ -1,0 +1,7 @@
+{
+  "prompt": "An isometric, surreal architectural composition inspired by M.C. Escher. A series of detached, floating marble platforms. On each individual platform, a staircase leads clearly downward. However, the platforms themselves are arranged in a massive, spiraling helix that ascends sharply toward a bright horizon. High contrast, cinematic lighting, sharp focus, 8k resolution, no text, no numbers, no symbols, no people.",
+  "model": "Midjourney v6.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Individual staircases trend downward (subgroups), but their global arrangement ascends (aggregate). The viewer perceives two contradictory directions of travel simultaneously, embodying the reversal of trends when data is combined.",
+  "publish_email": true
+}
